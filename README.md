@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying NLP & Deep Learning concepts
 - 💞️ I’m looking to collaborate on any open source projects that need DA/DS work, and I am open to employment opportunities as well.
 - 📫 Reach me at tri.bfk@gmail.com
+- !!  See my Tableau Portfolio here: https://public.tableau.com/app/profile/bruce.kelly2199#!/
 
 <!---
 bruce-kelly/bruce-kelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
