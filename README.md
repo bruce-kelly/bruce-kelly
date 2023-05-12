@@ -1,6 +1,6 @@
 - Hi, I’m @bruce-kelly
 - I’m interested in Data Engineering, Cloud Data Warehousing, Machine Learning, and Artificial Intelligence.
-- I’m currently studying Data Architecture in Azure, specializing in Cloud Data Warehousing using T-SQL, Azure Functions, Python, and Databricks
+- I’m currently an Azure Data Engineer, along with projects utilizing Airflow, Snowflake, dbt, and Hex.
 
 - 📫 Reach me at tri.bfk@gmail.com
 
