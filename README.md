@@ -1,6 +1,6 @@
 - Hi, I’m @bruce-kelly
-- I’m interested in Data Engineering, Cloud Data Warehousing, Machine Learning, and Artificial Intelligence.
-- I’m currently a Data Engineer on the Azure platform, but my personal projects are wide-reaching and involve multiple cloud providers, libraries, DevOps tools such as Terraform and Ansible, and data modeling tools such as dbt.
+- I’m interested in Data Engineering, DevOps, Software Engineering, and Artificial Intelligence.
+- I’m currently a Data Engineer working primarily in Azure.
 
 - 📫 Reach me at tri.bfk@gmail.com
 
