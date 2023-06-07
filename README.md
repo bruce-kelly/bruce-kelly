@@ -1,5 +1,4 @@
 - Hi, I’m @bruce-kelly
-- Author of Data Engineering Codex
 - My interests are Data Engineering, DevOps, Software Engineering, and Artificial Intelligence.
 - I’m currently a Data Engineer working primarily in Azure.
 
