@@ -1,5 +1,5 @@
 - Hi, I’m @bruce-kelly
-- My interests are Data Engineering, Distributed Systems, Backend Engineering.
+- My interests are Data Engineering, Distributed Systems, & Backend Engineering.
 - I’m currently a Data Engineer working primarily in Azure.
 
 - 📫 Reach me at tri.bfk@gmail.com
