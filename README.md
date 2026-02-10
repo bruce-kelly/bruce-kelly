@@ -1,10 +1,4 @@
-- Hi, I’m @bruce-kelly
-- My interests are Data Engineering, Distributed Systems, & Backend Engineering.
-- I’m currently a Data Engineer working primarily in Azure.
+Hi there! I'm Bruce. By trade a Data Engineer who is passionate about human creativity, 
 
-- 📫 Reach me at tri.bfk@gmail.com
-
-<!---
-bruce-kelly/bruce-kelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently exploring the ways that Agentic AI can be harnessed and used in a responsible, informed, reliable manner to bring people's projects and ideas into reality - starting with my own! 
+(Image tagging & taxonomy mapping is my current obsession)
